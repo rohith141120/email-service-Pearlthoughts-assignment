@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+dist/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+
+# AWS Elastic Beanstalk
+.elasticbeanstalk/
+email-service.zip
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+# Exclude common development and system files
+node_modules/
+.git/
+.vscode/
+.DS_Store
+npm-debug.log
+
+# Exclude system files that might be picked up
+NTUSER.DAT
